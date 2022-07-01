@@ -1,0 +1,134 @@
+html{
+    font-size: 62.5%;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#pagina-principal{
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.contenido1{
+    margin-top: 12.5rem;
+}
+
+.textito{
+    width: 69rem;
+}
+
+h1{
+    font-size: 4.4rem;
+}
+
+p{
+    font-size: 2rem;
+    opacity: 0.5;
+}
+
+.contenido3 p, .contenido12 p{
+    margin: auto 1rem;
+    padding: 1.3rem 3rem;
+    border: 1px solid;
+    border-radius: 2rem;
+    color: white;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+#boton1{
+    background-color: hsl(171, 66%, 44%);    
+}
+
+#boton1:hover{
+    box-shadow: 2px 2px 5px hsl(171, 66%, 44%);
+    cursor: pointer;
+}
+
+#boton2{
+    background-color: hsl(233, 100%, 69%);
+}
+
+#boton2:hover{
+    box-shadow: 2px 2px 5px hsl(233, 100%, 69%);
+    cursor: pointer;
+}
+
+h2{
+    font-size: 3.5rem;
+}
+
+.contenido4{
+    margin-top: 15rem;
+}
+.contenido5{
+    margin-top: 5rem;
+}
+
+.imagen-texto{
+    display: flex;
+    text-align: left;
+    position: relative;
+    left: -6rem;
+}
+
+h3{
+    font-size: 2.5rem;
+}
+
+.contenido4-texto{
+    width: 45rem;
+    margin-top: 5rem;
+    margin-left: 14rem;
+}
+
+
+.costado-pc p{
+    font-size: 2rem;
+    line-height: 3rem;
+}
+
+.contenido6{
+    margin-top: 10rem;
+}
+
+.contenido7{
+    margin-top: 5rem;
+}
+
+.contenido9{
+    margin: 5rem auto;
+}
+
+.contenido10{
+    margin: 15rem auto;
+}
+
+.lista-horizontal{
+    display: flex;
+}
+
+.cajita{
+    width: 39rem;
+    margin: auto 2rem;
+}
+
+.empresas{
+    margin: auto 5rem;
+}
+
+.contenido12{
+    margin-bottom: 15rem;
+}
